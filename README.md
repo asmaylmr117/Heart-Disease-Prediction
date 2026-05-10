@@ -2,7 +2,8 @@
 
 This project is a machine learning practical project for the 2025-2026 academic year.
 It implements a heart disease prediction workflow using the UCI Cleveland heart disease dataset.
-#link colab:
+
+# Link colab:
 https://colab.research.google.com/drive/1mIHeRBkTLOmR1Fai6ZvGVmu9wSrTQd6a?usp=sharing
 ## Files
 - `Heart Disease Prediction.ipynb` - Jupyter Notebook with the full analysis workflow.
